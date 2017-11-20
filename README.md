@@ -24,6 +24,8 @@ For additional examples and documentation please refer to the embeded documentat
 A function that returns statistical insights related to the campaigns associated with connected user
 
 `FacebookAds.Campaigns()`
+### Output
+![Output](media/output.PNG)
 
 ## FacebookAds.API
 Return a function which always returns a given value.
